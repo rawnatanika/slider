@@ -1,0 +1,28 @@
+header{
+	background-color: #000;
+	color: #fff;
+	padding: 10px 0;
+}
+.top{
+
+}
+.top ul li{
+	margin: 0 5px;
+}
+.menu{}
+.menu ul li{}
+.menu ul li a{
+	color: #fff;
+	padding: 0 20px;
+	display: block;
+	transition: .3s;
+}
+.menu ul li a:hover{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.carousel-indicators li{
+	width: 10px;
+	height: 10px;
+}
